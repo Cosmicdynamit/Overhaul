@@ -1,0 +1,16 @@
+Name: Sorgham Snowball
+Race: Human(+cha)
+class: Wizard(wis)
+    
+Lvl: 1
+Exp: 0/10
+    
+HP: 100/100
+Stm: 80/80
+Mana: 80/80
+
+Stats:
+    str: 1   int: -1
+    con: 0   wis: -1
+    dex: -2   cha: 5
+    
